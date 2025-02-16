@@ -37,5 +37,5 @@ This Power BI dashboard provides an analytical view of healthcare provider data,
 ## 📩 Connect with Me
 If you have any feedback or suggestions, feel free to connect!
 
-🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
-📧 **Email**: your.email@example.com
+🔗 **LinkedIn**: [https://www.linkedin.com/in/rohanur-rahman-ontu/](#)  
+📧 **Email**: playwithdatawithontu@gmail.com
